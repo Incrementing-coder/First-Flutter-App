@@ -4,7 +4,7 @@ My First Flutter Application
 
 ## Features
 - Custom login feature with Registration for new users.
-- Google Sign-in implemented.
+- Google Sign-in implemented. 
 - Session Management.
 
 ## Getting Started
@@ -12,7 +12,7 @@ My First Flutter Application
 1.  Clone project.
 2.  Use the following commands to run.
 ```
-$ flutter get
+$ flutter pub get
 $ flutter clean
 $ flutter run
 ```
